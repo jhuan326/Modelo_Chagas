@@ -1,0 +1,6 @@
+modelo_simplificado.cpp
+setup.py
+Modelo_Chagas_Simplificado.egg-info/PKG-INFO
+Modelo_Chagas_Simplificado.egg-info/SOURCES.txt
+Modelo_Chagas_Simplificado.egg-info/dependency_links.txt
+Modelo_Chagas_Simplificado.egg-info/top_level.txt

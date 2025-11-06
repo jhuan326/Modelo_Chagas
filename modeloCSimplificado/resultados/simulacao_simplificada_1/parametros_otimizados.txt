@@ -1,0 +1,15 @@
+Par�metros da Simula��o (PAGMO/SADE - Modelo SIMPLIFICADO):
+---------------------------------------------------
+Popula��o (populacao)     = 50
+Itera��es (iteracoes)     = 1500
+Erro final (MSLE)         = 10.460878
+---------------------------------------------------
+Par�metros Otimizados:
+pi_release       = 3.9570465704e+01
+beta_inf         = 7.2196189604e-06
+beta_SI          = 1.8543440572e-04
+evasao           = 1.6041039831e-04
+beta_SI_2        = 3.6817318872e-04
+beta             = 2.1851843041e+00
+c                = 4.7752832666e+00
+c2               = 1.7638655592e+08
