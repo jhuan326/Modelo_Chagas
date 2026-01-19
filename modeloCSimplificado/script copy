@@ -1,0 +1,20 @@
+C:/Users/jhuan/miniconda3/Scripts/activate
+
+Criando ambiente
+conda create -n chagas_build python=3.10
+
+Ativando
+conda activate chagas_build
+
+Instalando ferramentas necessárias
+conda install -c conda-forge python=3.10 pip numpy pandas matplotlib scipy cython "c-compiler>=1.6" "cxx-compiler>=1.6" vs2019_win-64
+
+Navegando até a pasta dos arquivos
+cd C:\Users\jhuan\Documents\Faculdade\IC\Modelo_Chagas\modeloCSimplificado
+
+Compilando o arquivo em C
+pip install . --no-build-isolation
+pip install . --no-build-isolation --force-reinstall
+
+Executando otimização
+python otimizacao.py

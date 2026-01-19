@@ -1,0 +1,62 @@
+Parametros da Simulacao:
+---------------------------------------------------
+Populacao (populacao)     = 1000
+Iteracoes (iteracoes)     = 1500
+Erro final (MSLE)         = 4.661481
+---------------------------------------------------
+Condicoes Iniciais:
+Tp0              = 1.0000000000e+03
+I0               = 0.0000000000e+00
+H0               = 1.0000000000e+08
+SI0              = 1.0000000000e+05
+---------------------------------------------------
+Limites de Busca:
+pi_release_min     = 4.5000000000e+08
+pi_release_max     = 5.5000000000e+08
+beta_inf_min     = 2.5000000000e-09
+beta_inf_max     = 3.1000000000e-09
+K_hill_T_min     = 4.0000000000e+07
+K_hill_T_max     = 5.0000000000e+07
+beta_min     = 8.5000000000e-08
+beta_max     = 1.0500000000e-07
+beta_SI_min     = 1.0000000000e-06
+beta_SI_max     = 1.5000000000e-06
+delta_T_min     = 5.4000000000e-01
+delta_T_max     = 6.6000000000e-01
+delta_I_min     = 8.7000000000e-01
+delta_I_max     = 1.0700000000e+00
+delta_SI_min     = 2.0000000000e-02
+delta_SI_max     = 2.4000000000e-02
+---------------------------------------------------
+Parametros Base:
+H0               = 1.0000000000e+08
+SI0              = 1.0000000000e+05
+alfa_H           = 1.0000000000e-03
+alfa_SI          = 1.0000000000e-02
+evasao           = 1.0000000000e-01
+beta_SI_2        = 1.0000000000e-05
+pi_release       = 5.1754902837e+08
+beta_inf         = 2.7982256469e-09
+K_hill_T         = 4.5546581107e+07
+beta             = 9.5315248335e-08
+beta_SI          = 1.2410342764e-06
+delta_T          = 5.9670116539e-01
+delta_I          = 9.7153206125e-01
+delta_SI         = 2.2079343248e-02
+---------------------------------------------------
+Parametros Otimizados:
+pi_release       = 4.5000004539e+08
+beta_inf         = 2.5000000232e-09
+K_hill_T         = 4.1790474071e+07
+beta             = 8.5000000041e-08
+beta_SI          = 1.0000000019e-06
+delta_T          = 5.4000000077e-01
+delta_I          = 1.0699999997e+00
+delta_SI         = 2.0000000014e-02
+---------------------------------------------------
+Observacoes
+Usando os parametros da 41 como condicoes iniciais
+Porém aqui coloquei um valor inicial pros parametros e limites de busca
+Nao tenho certeza se isso muda algo em relacao a simulacao 42 onde so 
+especifiquei os parametros de busca
+---------------------------------------------------

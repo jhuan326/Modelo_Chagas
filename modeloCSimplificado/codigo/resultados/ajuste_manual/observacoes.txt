@@ -1,0 +1,17 @@
+'H0':  
+'SI0':       
+'alfa_H':    
+'alfa_SI':  
+'evasao': 
+'beta_SI_2':
+'pi_release': 1º a alterar, foi o suficiente pra alterar a altura do pico próximo do valor máximo
+'K_hill_T': comecei a alterar a partir da simulacao 15
+            Alterei deixando o pi_release porem quando aumentava o K, transladava pra direita
+            (o que foi necessário depois de ajustar o pi_release), e diminuía o pico
+            A partir da 17 alterei o k_hill_T e pi_release juntos
+'beta_inf':  comecei a usar na simulação 36, pois apenas pi_release e k_hill_T nao estavam ajustando o necessário
+'beta':
+'beta_SI':  
+'delta_T':
+'delta_I':
+'delta_SI':

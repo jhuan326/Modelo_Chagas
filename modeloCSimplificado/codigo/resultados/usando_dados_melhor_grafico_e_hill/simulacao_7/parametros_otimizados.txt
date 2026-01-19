@@ -1,0 +1,52 @@
+Parametros da Simulacao:
+---------------------------------------------------
+Populacao (populacao)     = 100
+Iteracoes (iteracoes)     = 150
+Erro final (MSLE)         = 8.823364
+---------------------------------------------------
+Condicoes Iniciais:
+Tp0              = 1.0000000000e+03
+I0               = 0.0000000000e+00
+H0               = 1.0000000000e+08
+SI0              = 1.0000000000e+05
+---------------------------------------------------
+Limites de Busca:
+pi_release_min     = 4.0000000000e+06
+pi_release_max     = 6.0000000000e+06
+beta_inf_min     = 1.0000000000e-09
+beta_inf_max     = 1.0000000000e-08
+K_hill_T_min     = 1.0000000000e+04
+K_hill_T_max     = 1.0000000000e+05
+beta_min     = 1.0000000000e-07
+beta_max     = 1.0000000000e-04
+beta_SI_min     = 1.0000000000e-09
+beta_SI_max     = 1.0000000000e-05
+delta_T_min     = 1.0000000000e-01
+delta_T_max     = 1.0000000000e+00
+delta_I_min     = 1.0000000000e-01
+delta_I_max     = 1.0000000000e+00
+delta_SI_min     = 1.0000000000e-02
+delta_SI_max     = 5.0000000000e-01
+---------------------------------------------------
+Parametros Base:
+H0               = 1.0000000000e+08
+SI0              = 1.0000000000e+05
+alfa_H           = 1.0000000000e-03
+alfa_SI          = 1.0000000000e-02
+evasao           = 1.0000000000e-01
+beta_SI_2        = 1.0000000000e-05
+---------------------------------------------------
+Parametros Otimizados:
+pi_release       = 5.9275612153e+06
+beta_inf         = 2.4517126411e-09
+K_hill_T         = 6.9497913110e+04
+beta             = 5.6200562682e-07
+beta_SI          = 3.3538779775e-06
+delta_T          = 2.0572278339e-01
+delta_I          = 9.2224858323e-01
+delta_SI         = 2.0522493734e-01
+---------------------------------------------------
+Observacoes
+Nessa simulacao foi alterado o limite do parametro k_hill_T
+de (1000, 10000) para (1e4, 1e5)
+---------------------------------------------------

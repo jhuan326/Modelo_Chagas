@@ -1,0 +1,49 @@
+Parametros da Simulacao:
+---------------------------------------------------
+Populacao (populacao)     = 100
+Iteracoes (iteracoes)     = 150
+Erro final (MSLE)         = 5.909654
+---------------------------------------------------
+Condicoes Iniciais:
+Tp0              = 1.0000000000e+03
+I0               = 0.0000000000e+00
+H0               = 1.0000000000e+08
+SI0              = 1.0000000000e+05
+---------------------------------------------------
+Limites de Busca:
+pi_release_min     = 4.0000000000e+00
+pi_release_max     = 6.0000000000e+00
+beta_inf_min     = 1.0000000000e-09
+beta_inf_max     = 1.0000000000e-08
+beta_min     = 1.0000000000e-07
+beta_max     = 1.0000000000e-04
+beta_SI_min     = 1.0000000000e-09
+beta_SI_max     = 1.0000000000e-05
+delta_T_min     = 1.0000000000e-01
+delta_T_max     = 1.0000000000e+00
+delta_I_min     = 1.0000000000e-01
+delta_I_max     = 1.0000000000e+00
+delta_SI_min     = 1.0000000000e-02
+delta_SI_max     = 5.0000000000e-01
+---------------------------------------------------
+Parametros Base:
+H0               = 1.0000000000e+08
+SI0              = 1.0000000000e+05
+alfa_H           = 1.0000000000e-03
+alfa_SI          = 1.0000000000e-02
+evasao           = 1.0000000000e-01
+beta_SI_2        = 1.0000000000e-05
+---------------------------------------------------
+Parametros Otimizados:
+pi_release       = 4.9432085899e+00
+beta_inf         = 1.7378252093e-09
+beta             = 2.2722009184e-07
+beta_SI          = 4.4384001315e-08
+delta_T          = 1.9673602276e-01
+delta_I          = 6.5620348281e-01
+delta_SI         = 2.8956346328e-01
+---------------------------------------------------
+Observacoes
+Nessa simulacao foi alterado o limite do parametro delta_SI 
+de (0.1, 1.0) para (0.01, 0.5)
+---------------------------------------------------

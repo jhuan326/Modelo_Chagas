@@ -1,0 +1,43 @@
+Parametros da Simulacao:
+---------------------------------------------------
+Populacao (populacao)     = 100
+Iteracoes (iteracoes)     = 150
+Erro final (MSLE)         = 5.070687
+---------------------------------------------------
+Condicoes Iniciais:
+Tp0              = 1.0000000000e+03
+I0               = 0.0000000000e+00
+H0               = 1.0000000000e+08
+SI0              = 1.0000000000e+05
+---------------------------------------------------
+Limites de Busca:
+pi_release_min     = 4.0000000000e+00
+pi_release_max     = 2.0000000000e+01
+beta_inf_min     = 1.0000000000e-09
+beta_inf_max     = 1.0000000000e-08
+beta_min     = 1.0000000000e-07
+beta_max     = 1.0000000000e-04
+beta_SI_min     = 1.0000000000e-09
+beta_SI_max     = 1.0000000000e-05
+---------------------------------------------------
+Parametros Base:
+H0               = 1.0000000000e+08
+SI0              = 1.0000000000e+05
+alfa_H           = 1.0000000000e-03
+alfa_SI          = 1.0000000000e-02
+delta_T          = 5.0000000000e-01
+delta_I          = 1.0000000000e-01
+delta_SI         = 1.0000000000e-01
+evasao           = 1.0000000000e-01
+beta_SI_2        = 1.0000000000e-05
+---------------------------------------------------
+Parametros Otimizados:
+pi_release       = 8.7925815042e+00
+beta_inf         = 1.0017209511e-09
+beta             = 1.0013859569e-07
+beta_SI          = 1.0125518385e-09
+---------------------------------------------------
+Observacoes
+Nessa simulacao foi alterada a faixa de busca para beta_inf
+de (5e-9, 6e-9) para (1e-9, 1e-8)
+---------------------------------------------------
